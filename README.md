@@ -1,7 +1,7 @@
 # Hi, I'm Ziyang 
 
 
-I have foundation in machine learning, deep learning, data visualization, and large language models. With a hands-on approach to problem-solving, I have led and contributed to projects spanning content moderation, emotion recognition, and data engineering & Visualisation .
+I have foundation in machine learning, deep learning, data visualization, and large language models. With a hands-on approach to problem-solving, I have led and contributed to many meaningful projects spanning content moderation, emotion recognition, and data engineering & Visualisation .
 
 My interests lie in the intersection of Artificial Intelligence and Data Engineering, turning complex datasets into actionable insights. 
 
@@ -23,7 +23,7 @@ My interests lie in the intersection of Artificial Intelligence and Data Enginee
 - **[Speech Emotion Recognition with Wav2Vec2](https://github.com/2302660/Speech-Emotion-Recognition-using-Wav2Vec2.git)**  
   Developed a robust audio-based emotion classifier using advanced data augmentation and transfer learning.
 
-- **[FoodVision (AAI3001 Final Project)](https://github.com/2302660/aai3001_final_project.git)**  
+- **[FoodVision](https://github.com/2302660/aai3001_final_project.git)**  
   Built a deep learning model for food recognition across 55 categories, integrating nutritional analytics and web interface.
 
 - **[Interactive Data Breach Visualizer (R Team Project)](https://github.com/2302660/r_team_project.git)**  
