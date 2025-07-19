@@ -1,7 +1,4 @@
-# Hi, I'm Ziyang Hong
-
-BSc in Applied Artificial Intelligence at Singapore Institute of Technology  
-
+# Hi, I'm Ziyang 
 
 
 I have foundation in machine learning, deep learning, data visualization, and large language models. With a hands-on approach to problem-solving, I have led and contributed to real-world applications spanning content moderation, emotion recognition, and data engineering & Visualisation .
