@@ -1,9 +1,9 @@
 # Hi, I'm Ziyang 
 
 
-I have foundation in machine learning, deep learning, data visualization, and large language models. With a hands-on approach to problem-solving, I have led and contributed to real-world applications spanning content moderation, emotion recognition, and data engineering & Visualisation .
+I have foundation in machine learning, deep learning, data visualization, and large language models. With a hands-on approach to problem-solving, I have led and contributed to projects spanning content moderation, emotion recognition, and data engineering & Visualisation .
 
-My interests lie in the intersection of Artificial Intelligence and Data Engineering, turning complex datasets into actionable insights and deploying intelligent systems at scale. 
+My interests lie in the intersection of Artificial Intelligence and Data Engineering, turning complex datasets into actionable insights. 
 
 
 
