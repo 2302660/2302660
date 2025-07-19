@@ -19,14 +19,14 @@ My interests lie in the intersection of Artificial Intelligence and Data Enginee
 
 - **[Multimodal LLM-Based Profanity Detection](https://github.com/2302660/profanity-detection.git)**  
   Designed a context-aware content moderation system for both audio and text using LLMs and real-time streaming.
+  
+  - **[FoodVision](https://github.com/2302660/aai3001_final_project.git)**  
+  Built a deep learning model for food recognition across 55 categories, integrating nutritional analytics and interface.
 
 - **[Speech Emotion Recognition with Wav2Vec2](https://github.com/2302660/Speech-Emotion-Recognition-using-Wav2Vec2.git)**  
   Developed a robust audio-based emotion classifier using advanced data augmentation and transfer learning.
 
-- **[FoodVision](https://github.com/2302660/aai3001_final_project.git)**  
-  Built a deep learning model for food recognition across 55 categories, integrating nutritional analytics and web interface.
-
-- **[Interactive Data Breach Visualizer (R Team Project)](https://github.com/2302660/r_team_project.git)**  
+- **[Interactive Data Breach Visualizer](https://github.com/2302660/r_team_project.git)**  
   Created an R-powered visualization dashboard of the world’s largest data breaches with advanced filtering capabilities.
 
 
