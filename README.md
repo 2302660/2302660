@@ -1,7 +1,7 @@
 # Hi, I'm Ziyang 
 
 
-I have foundation in machine learning, deep learning, data visualization, and large language models. With a hands-on approach to problem-solving, I have led and contributed to many meaningful projects spanning content moderation, emotion recognition, and data engineering & Visualisation .
+I have foundation in machine learning, deep learning and data engineering & visualization. With a hands-on approach to problem-solving, I have led and contributed to many meaningful projects spanning content moderation, emotion recognition, and data engineering & Visualisation .
 
 My interests lie in the intersection of Artificial Intelligence and Data Engineering, turning complex datasets into actionable insights. 
 
@@ -11,7 +11,7 @@ My interests lie in the intersection of Artificial Intelligence and Data Enginee
 
 - **Languages:** Python, R, SQL  
 - **Frameworks & Tools:** PyTorch, NumPy, Pandas, Hugging Face, Quarto, RStudio, MongoDB, MariaDB, pgAdmin, GitHub, Jupyter Notebook  
-- **Areas of Interest:** Deep Learning, Data Analysis, LLMs, Data Engineering, Cloud Computing, Visualization  
+- **Areas of Interest:** Deep Learning, Data Analysis, LLMs, Data Engineering & Visualization.
 
 
 
