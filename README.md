@@ -10,8 +10,8 @@ My interests lie in the intersection of Artificial Intelligence and Data Enginee
 ## Technical Skills
 
 - **Languages:** Python, R, SQL  
-- **Frameworks & Tools:** PyTorch, NumPy, Pandas, Hugging Face, Quarto, RStudio, MongoDB, MariaDB, pgAdmin, GitHub, Jupyter Notebook  
-- **Areas of Interest:** Deep Learning, Data Analysis, LLMs, Data Engineering & Visualization.
+- **Frameworks & Tools:** PyTorch, NumPy, Pandas, RStudio, Tidyverse, Quarto, NoSQL, pgAdmin 4, MongoDB, MariaDB, Hugging Face, HTML/CSS, PHP/JavaScript, Jupyter Notebook, VS Code, GitHub
+- **Areas of Interest:** Data Analysis, LLMs, Data Engineering & Visualization.
 
 
 
