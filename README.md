@@ -3,15 +3,14 @@
 
 I have foundation in AI and Data. With a hands-on approach to problem-solving, I have led and contributed to many meaningful projects spanning content moderation, emotion recognition, and visualising the world biggest data breaches.
 
-My interests lie in the intersection of Artificial Intelligence and Data Engineering, turning complex datasets into actionable insights.  
-
 
 
 ## Technical Skills
 
 - **Languages:** Python, R, SQL  
 - **Frameworks & Tools:** PyTorch, NumPy, Pandas, RStudio, Tidyverse, Quarto, NoSQL, pgAdmin 4, MongoDB, MariaDB, Hugging Face, HTML/CSS, PHP/JavaScript, Jupyter Notebook, VS Code, GitHub
-- **Areas of Interest:** Data Analysis, LLMs, Data Engineering & Visualization.
+- **Areas of Interest:** Data Analysis, ML/DL. LLMs, Data Engineering & Visualization, Management.
+
 
 
 
@@ -28,6 +27,7 @@ My interests lie in the intersection of Artificial Intelligence and Data Enginee
 
 - **[Interactive Data Breach Visualizer](https://github.com/2302660/r_team_project.git)**  
   Created an R-powered visualization dashboard of the world’s largest data breaches with advanced filtering capabilities.
+
 
 
 
