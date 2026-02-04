@@ -19,7 +19,7 @@ I have foundation in AI and Data. With a hands-on approach to problem-solving, I
 - **[Multimodal LLM-Based Profanity Detection](https://github.com/2302660/profanity-detection.git)**  
   Designed a context-aware content moderation system for both audio and text using LLMs and real-time streaming.
   
-- **[FoodVision]([https://github.com/2302660/aai3001_final_project.gi](https://github.com/2302660/FoodVision.git)**  
+- **[FoodVision](https://github.com/2302660/FoodVision.git)**  
   Deep learning-based food detection system using YOLOv8 to identify 55 different food classes, with calorie estimation and a web interface featuring image upload and camera capture capabilities.
 
 - **[Speech Emotion Recognition with Wav2Vec2](https://github.com/2302660/Speech-Emotion-Recognition-using-Wav2Vec2.git)**  
