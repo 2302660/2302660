@@ -9,7 +9,7 @@ I have foundation in AI and Data. With a hands-on approach to problem-solving, I
 
 - **Languages:** Python, R, SQL  
 - **Frameworks & Tools:** PyTorch, NumPy, Pandas, RStudio, Tidyverse, Quarto, NoSQL, pgAdmin 4, MongoDB, MariaDB, Hugging Face, HTML/CSS, PHP/JavaScript, Jupyter Notebook, VS Code, GitHub
-- **Areas of Interest:** Data Analysis, ML/DL. LLMs, Data Engineering & Visualization, Management.
+- **Areas of Interest:** Data Analysis, ML/DL. LLMs, Data Engineering & Visualization
 
 
 
